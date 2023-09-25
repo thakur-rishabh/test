@@ -5,4 +5,4 @@
 2. [de_proj_design](https://github.com/thakur-rishabh/test/assets/73167868/9ff6f27a-5c11-4e38-bf8d-076af7f0b0c9)
 3. [fast-api](https://github.com/thakur-rishabh/test/assets/73167868/e51ecdf4-c349-4ca0-a907-8ae33be5f757)
 4. [bayer-logo](https://github.com/thakur-rishabh/test/assets/73167868/3d9cc3fe-e359-42e6-8396-b015edc55cd0)
-
+5. [uta-image](https://github.com/thakur-rishabh/test/assets/73167868/9a82107d-22ec-4a5f-820b-80cc799b2b6a)
